@@ -1,0 +1,21 @@
+{
+    "name": "javascript-data-structures",
+    "version": "1.0.0",
+    "description": "Build and test data structures in JavaScript.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest --coverage"
+    },
+    "keywords": [
+        "javascript",
+        "data structures"
+    ],
+    "author": "Christopher Bradley <contact@christopherbradley.dev> (https://christopherbradley.dev)",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/core": "^7.11.6",
+        "@babel/preset-env": "^7.11.5",
+        "babel-jest": "^26.3.0",
+        "jest": "^26.4.2"
+    }
+}
